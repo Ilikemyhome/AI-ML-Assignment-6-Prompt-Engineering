@@ -4,12 +4,12 @@
 
 
 
-## 🧠 Task Overview  
+##  Task Overview  
 This experiment explores how different prompt engineering techniques affect the ability of a language model to retell a story in distinct personas (Yoda and Gen Z TikTok creator). The goal was to evaluate how role, format, and reasoning structure influence output quality.
 
 ---
 
-## 📊 Summary Table
+##  Summary Table
 
 | Prompt Type         | Persona(s) Used     | Score (1–10) | Observation |
 |---------------------|---------------------|--------------|-------------|
@@ -21,6 +21,6 @@ This experiment explores how different prompt engineering techniques affect the 
 
 ---
 
-## 🎯 Key Lesson Learned
+##  Key Lesson Learned
 
 Prompt structure dramatically affects LLM output quality. Combining **persona**, **format**, and **reasoning scaffolds** (like emotional arcs) leads to the most coherent, creative, and persona-faithful results. The final prompt outperformed all others by guiding the model with clear intent and constraints.
